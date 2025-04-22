@@ -3,7 +3,6 @@ Bu proje, bir e-ticaret uygulamasının ön yüzünü (frontend) temsil etmekted
 
 Backend Tarafı
 - https://github.com/mberkanakblt/ECommerce.git
-- LİNKİ: https://github.com/mberkanakblt/ECommerce
 
 - EKRAN GÖRÜNTÜLERİ
 - ![HomePage](https://github.com/user-attachments/assets/30f021fc-9513-4755-be58-9f08e59ce0cd)
