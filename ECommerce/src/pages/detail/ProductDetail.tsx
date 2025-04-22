@@ -1,9 +1,9 @@
 import React from 'react'
-import SocialComponent from '../../components/ormasims/SocialComponent'
-import FooterSearchComponent from '../../components/ormasims/FooterSearchComponent'
+import SocialComponent from '../../components/organisms/SocialComponent'
+import FooterSearchComponent from '../../components/organisms/FooterSearchComponent'
 import CategoryMenuComponent from '../../components/molecules/CategoryMenuComponent'
 import MenuNavBarComponent from '../../components/molecules/MenuNavBarComponent'
-import ShopDetailComponent from '../../components/ormasims/ShopDetailComponent'
+import ShopDetailComponent from '../../components/organisms/ShopDetailComponent'
 import './style.css'
 import { useParams } from 'react-router'
 function ProductDetail() {

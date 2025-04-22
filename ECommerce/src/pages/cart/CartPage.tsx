@@ -1,9 +1,9 @@
-import SocialComponent from '../../components/ormasims/SocialComponent'
-import FooterSearchComponent from '../../components/ormasims/FooterSearchComponent'
+import SocialComponent from '../../components/organisms/SocialComponent'
+import FooterSearchComponent from '../../components/organisms/FooterSearchComponent'
 import CategoryMenuComponent from '../../components/molecules/CategoryMenuComponent'
 import MenuNavBarComponent from '../../components/molecules/MenuNavBarComponent'
 import './style.css'
-import CartDetailListComponent from '../../components/ormasims/CartDetailListComponent'
+import CartDetailListComponent from '../../components/organisms/CartDetailListComponent'
 function CartPage() {
      
   return (

@@ -1,17 +1,17 @@
 import React from 'react'
-import FooterSearchComponent from '../../components/ormasims/FooterSearchComponent'
-import SocialComponent from '../../components/ormasims/SocialComponent'
+import FooterSearchComponent from '../../components/organisms/FooterSearchComponent'
+import SocialComponent from '../../components/organisms/SocialComponent'
 import CategoryMenuComponent from '../../components/molecules/CategoryMenuComponent'
 import MenuNavBarComponent from '../../components/molecules/MenuNavBarComponent'
 import CarouselComponent from '../../components/molecules/CarouselComponent'
 
 
-import CategoriesListComponent from '../../components/ormasims/CategoriesListComponent'
-import FeatureComponentList from '../../components/ormasims/FeatureComponentList'
+import CategoriesListComponent from '../../components/organisms/CategoriesListComponent'
+import FeatureComponentList from '../../components/organisms/FeatureComponentList'
 
-import OfferListComponent from '../../components/ormasims/OfferListComponent'
-import ProductComponentList from '../../components/ormasims/ProductComponentList'
-import JustArrivedComponent from '../../components/ormasims/JustArrivedComponent'
+import OfferListComponent from '../../components/organisms/OfferListComponent'
+import ProductComponentList from '../../components/organisms/ProductComponentList'
+import JustArrivedComponent from '../../components/organisms/JustArrivedComponent'
 
 
 function HomePage() {
