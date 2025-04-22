@@ -1,4 +1,5 @@
 ECommerce-fe
+
 Bu proje, react projesidir ve e-ticaret uygulamasının ön yüzünü (frontend) temsil etmektedir. Kullanıcıların ürünleri görüntüleyebileceği, sepetlerine ekleyebileceği ve sipariş verebileceği bir arayüz sunar.
 
 Backend Tarafı
